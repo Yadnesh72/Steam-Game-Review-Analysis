@@ -2,6 +2,8 @@
 
 This project explores and analyzes user reviews from the Steam gaming platform to uncover valuable insights into player sentiment, popular genres, game ratings, and behavioral patterns.
 
+*Link for dataset: https://drive.google.com/file/d/1chmtljYvT2xzHIsVzm8iRthPwZA7L8zc/view?usp=sharing*
+
 # 📊 Objective
 
 To perform data-driven analysis on Steam game reviews to:
