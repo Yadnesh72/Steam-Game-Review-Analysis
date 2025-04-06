@@ -1,6 +1,4 @@
-# Steam-Game-Review-Analysis
-
-🎮 Steam Game Review Analysis
+# 🎮 Steam-Game-Review-Analysis
 
 This project explores and analyzes user reviews from the Steam gaming platform to uncover valuable insights into player sentiment, popular genres, game ratings, and behavioral patterns.
 
